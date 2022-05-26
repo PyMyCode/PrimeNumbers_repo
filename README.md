@@ -4,10 +4,19 @@ Created README
 
 ##Steps:
 
+
+1. Install GNU Compiler Collections to compile C
 ```bash
-1. Install gcc
-2. Go to terminal and compile prime.c
+sudo apt update
+sudo apt install build-essential
+gcc --version
+```
+
+2. Now compile the file prime.c using gcc
+```bash
 gcc prime.c -o prime
-run the executable file
+```
+3. Run the executable file
+```bash
 ./prime
 ```
