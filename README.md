@@ -2,7 +2,7 @@
 
 Created README
 
-##Steps:
+## Steps:
 
 
 1. Install GNU Compiler Collections to compile C
