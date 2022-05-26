@@ -2,10 +2,12 @@
 
 Created README
 
-Steps:
+##Steps:
 
-install gcc
-go to terminal and compile prime.c
+```bash
+1. Install gcc
+2. Go to terminal and compile prime.c
 gcc prime.c -o prime
 run the executable file
 ./prime
+```
