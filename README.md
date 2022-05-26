@@ -1,6 +1,6 @@
-# Prime Numbers Detector
+# Prime Number Detector
 
-A simple program written in C to count and display all the prime numbers in between to given numbers.
+A simple program written in C to count and display all the prime numbers between two given numbers.
 
 ## Steps:
 
