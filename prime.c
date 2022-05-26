@@ -39,7 +39,7 @@ int main(void)
 			{
 				printf("%i", i);
 
-				if (prime_counter % 5 == 0)
+				if (prime_counter % 10 == 0)
 				{
 					printf("\n");
 				}
