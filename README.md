@@ -1,9 +1,8 @@
-# PrimeNumbers_repo
+# Prime Numbers Detector
 
-Created README
+A simple program written in C to count and display all the prime numbers in between to given numbers.
 
 ## Steps:
-
 
 1. Install GNU Compiler Collections to compile C
 ```bash
